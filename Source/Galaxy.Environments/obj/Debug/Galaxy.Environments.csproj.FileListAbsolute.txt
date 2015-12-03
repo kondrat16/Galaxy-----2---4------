@@ -1,0 +1,105 @@
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.Environments.dll
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.Environments.pdb
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\deth.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\FailScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\StartScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\bullet.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\LevelOne.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\player.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\ship.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\deth.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\FailScreen.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\StartScreen.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\bullet.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\LevelOne.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\player.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\ship.png
+C:\Users\zaret\Desktop\Galaxy\Build\Galaxy.Environments.dll
+C:\Users\zaret\Desktop\Galaxy\Build\Galaxy.Environments.pdb
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Galaxy\Build\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\Lightning.gif
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Actors\Ship.cs
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\Lightning.gif
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Actors\Ship.cs
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Galaxy.Environments.dll
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Galaxy.Environments.pdb

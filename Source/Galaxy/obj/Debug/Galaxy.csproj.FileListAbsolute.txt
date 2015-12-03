@@ -1,0 +1,140 @@
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.exe.config
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.exe
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.pdb
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\deth.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\FailScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\StartScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\bullet.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\LevelOne.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\player.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\ship.png
+C:\Users\zaret\Desktop\Galaxy\Build\Galaxy.exe.config
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\deth.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\FailScreen.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\StartScreen.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\bullet.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\LevelOne.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\player.png
+C:\Users\zaret\Desktop\Galaxy\Build\Assets\ship.png
+C:\Users\zaret\Desktop\Galaxy\Build\Galaxy.exe
+C:\Users\zaret\Desktop\Galaxy\Build\Galaxy.pdb
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\zaret\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\Kondrat\Desktop\Galaxy\Build\Galaxy.exe.config
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Galaxy\Build\Galaxy.exe
+C:\Users\Kondrat\Desktop\Galaxy\Build\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Kondrat\Desktop\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Galaxy.exe.config
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Galaxy.exe.config
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Galaxy.exe
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Build\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Kondrat\Desktop\Galaxy(Моя2 проба)\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.exe.config
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы\Galaxy(Моя 2 лаба)\Build\Galaxy.exe.config
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.exe.config
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Build\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Мои Лабы(Долгов)\Galaxy(Моя 2 лаба)\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Assets\Lightning.gif
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 лаба)\Build\Actors\Ship.cs
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Galaxy.exe.config
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\deth.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\FailScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\Lightning.gif
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\StartScreen.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\badship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\bullet.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\LevelOne.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\player.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Assets\ship.png
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Actors\Ship.cs
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Galaxy.exe
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Build\Galaxy.pdb
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Kondrat\Desktop\Учеба\Програмная инженерия(Долгов)\Galaxy(Моя 2 и 4 лаба)\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
